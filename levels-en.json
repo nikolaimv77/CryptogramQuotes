@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "quote": "Knowledge is power.",
+    "author": "Francis Bacon"
+  },
+  {
+    "id": 2,
+    "quote": "Time is money.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 3,
+    "quote": "To be or not to be, that is the question.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 4,
+    "quote": "I think, therefore I am.",
+    "author": "Rene Descartes"
+  },
+  {
+    "id": 5,
+    "quote": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 6,
+    "quote": "Brevity is the soul of wit.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 7,
+    "quote": "All that glitters is not gold.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 8,
+    "quote": "Know thyself.",
+    "author": "Delphic maxim"
+  },
+  {
+    "id": 9,
+    "quote": "I came, I saw, I conquered.",
+    "author": "Julius Caesar"
+  },
+  {
+    "id": 10,
+    "quote": "The die is cast.",
+    "author": "Julius Caesar"
+  },
+  {
+    "id": 11,
+    "quote": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 12,
+    "quote": "Facts are stubborn things.",
+    "author": "John Adams"
+  },
+  {
+    "id": 13,
+    "quote": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 14,
+    "quote": "Life is what happens while you are busy making other plans.",
+    "author": "Allen Saunders"
+  },
+  {
+    "id": 15,
+    "quote": "The unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "id": 16,
+    "quote": "Fortune favors the bold.",
+    "author": "Virgil"
+  },
+  {
+    "id": 17,
+    "quote": "Love conquers all.",
+    "author": "Virgil"
+  },
+  {
+    "id": 18,
+    "quote": "Better late than never.",
+    "author": "Livy"
+  },
+  {
+    "id": 19,
+    "quote": "Seize the day.",
+    "author": "Horace"
+  },
+  {
+    "id": 20,
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "id": 21,
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 22,
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "id": 23,
+    "quote": "Whatever you are, be a good one.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 24,
+    "quote": "Never, never, never give up.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 25,
+    "quote": "Hope is the thing with feathers.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "id": 26,
+    "quote": "Not all those who wander are lost.",
+    "author": "J. R. R. Tolkien"
+  },
+  {
+    "id": 27,
+    "quote": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "id": 28,
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 29,
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 30,
+    "quote": "Two roads diverged in a wood, and I took the one less traveled by.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 31,
+    "quote": "Ask not what your country can do for you.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "id": 32,
+    "quote": "I have a dream.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "id": 33,
+    "quote": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "id": 34,
+    "quote": "Man is by nature a political animal.",
+    "author": "Aristotle"
+  },
+  {
+    "id": 35,
+    "quote": "Quality is not an act, it is a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "id": 36,
+    "quote": "The pen is mightier than the sword.",
+    "author": "Edward Bulwer-Lytton"
+  },
+  {
+    "id": 37,
+    "quote": "All the world is a stage.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 38,
+    "quote": "Elementary, my dear Watson.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "id": 39,
+    "quote": "Curiouser and curiouser!",
+    "author": "Lewis Carroll"
+  },
+  {
+    "id": 40,
+    "quote": "It was the best of times, it was the worst of times.",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 41,
+    "quote": "Call me Ishmael.",
+    "author": "Herman Melville"
+  },
+  {
+    "id": 42,
+    "quote": "All animals are equal, but some animals are more equal than others.",
+    "author": "George Orwell"
+  },
+  {
+    "id": 43,
+    "quote": "Big Brother is watching you.",
+    "author": "George Orwell"
+  },
+  {
+    "id": 44,
+    "quote": "A rose by any other name would smell as sweet.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 45,
+    "quote": "Do or do not. There is no try.",
+    "author": "Yoda"
+  },
+  {
+    "id": 46,
+    "quote": "Houston, we have a problem.",
+    "author": "Jim Lovell"
+  },
+  {
+    "id": 47,
+    "quote": "That is one small step for man, one giant leap for mankind.",
+    "author": "Neil Armstrong"
+  },
+  {
+    "id": 48,
+    "quote": "Eureka!",
+    "author": "Archimedes"
+  },
+  {
+    "id": 49,
+    "quote": "Give me a place to stand and I will move the earth.",
+    "author": "Archimedes"
+  },
+  {
+    "id": 50,
+    "quote": "An apple a day keeps the doctor away.",
+    "author": "English proverb"
+  },
+  {
+    "id": 51,
+    "quote": "Actions speak louder than words.",
+    "author": "English proverb"
+  },
+  {
+    "id": 52,
+    "quote": "Practice makes perfect.",
+    "author": "English proverb"
+  },
+  {
+    "id": 53,
+    "quote": "Where there is a will, there is a way.",
+    "author": "English proverb"
+  },
+  {
+    "id": 54,
+    "quote": "Rome was not built in a day.",
+    "author": "English proverb"
+  },
+  {
+    "id": 55,
+    "quote": "Every cloud has a silver lining.",
+    "author": "English proverb"
+  },
+  {
+    "id": 56,
+    "quote": "The early bird catches the worm.",
+    "author": "English proverb"
+  },
+  {
+    "id": 57,
+    "quote": "Honesty is the best policy.",
+    "author": "English proverb"
+  },
+  {
+    "id": 58,
+    "quote": "Laughter is the best medicine.",
+    "author": "English proverb"
+  },
+  {
+    "id": 59,
+    "quote": "Beauty is in the eye of the beholder.",
+    "author": "Margaret Wolfe Hungerford"
+  },
+  {
+    "id": 60,
+    "quote": "Hell is other people.",
+    "author": "Jean-Paul Sartre"
+  }
+]
