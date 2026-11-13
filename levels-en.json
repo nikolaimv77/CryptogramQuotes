@@ -298,5 +298,1255 @@
     "id": 60,
     "quote": "Hell is other people.",
     "author": "Jean-Paul Sartre"
+  },
+  {
+    "id": 61,
+    "quote": "No man is an island, entire of itself; every man is a piece of the continent.",
+    "author": "John Donne"
+  },
+  {
+    "id": 62,
+    "quote": "The perfect is the enemy of the good.",
+    "author": "Voltaire"
+  },
+  {
+    "id": 63,
+    "quote": "The reports of my death are greatly exaggerated.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 64,
+    "quote": "Beauty is truth, truth beauty, that is all ye know on earth, and all ye need to know.",
+    "author": "John Keats"
+  },
+  {
+    "id": 65,
+    "quote": "If at first you don't succeed, try, try again.",
+    "author": "English proverb"
+  },
+  {
+    "id": 66,
+    "quote": "Knowing others is wisdom, knowing yourself is enlightenment.",
+    "author": "Lao Tzu"
+  },
+  {
+    "id": 67,
+    "quote": "There is nothing in the world so irresistibly contagious as laughter and good humour.",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 68,
+    "quote": "Wisely and slow; they stumble that run fast.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 69,
+    "quote": "Look on my Works, ye Mighty, and despair!",
+    "author": "Percy Bysshe Shelley"
+  },
+  {
+    "id": 70,
+    "quote": "The grass is always greener on the other side of the fence.",
+    "author": "English proverb"
+  },
+  {
+    "id": 71,
+    "quote": "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "id": 72,
+    "quote": "I declare after all there is no enjoyment like reading!",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 73,
+    "quote": "He who does not know foreign languages does not know anything about his own.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": 74,
+    "quote": "Hope deferred maketh the heart sick.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 75,
+    "quote": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 76,
+    "quote": "Men willingly believe what they wish.",
+    "author": "Julius Caesar"
+  },
+  {
+    "id": 77,
+    "quote": "All that we see or seem is but a dream within a dream.",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "id": 78,
+    "quote": "Truth is the most valuable thing we have. Let us economize it.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 79,
+    "quote": "Gratitude is not only the greatest of virtues, but the parent of all others.",
+    "author": "Cicero"
+  },
+  {
+    "id": 80,
+    "quote": "Learning without thought is labour lost; thought without learning is perilous.",
+    "author": "Confucius"
+  },
+  {
+    "id": 81,
+    "quote": "For dust thou art, and unto dust shalt thou return.",
+    "author": "Genesis"
+  },
+  {
+    "id": 82,
+    "quote": "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 83,
+    "quote": "This above all: to thine own self be true.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 84,
+    "quote": "There is nothing either good or bad, but thinking makes it so.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 85,
+    "quote": "To love oneself is the beginning of a lifelong romance.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 86,
+    "quote": "Three may keep a secret, if two of them are dead.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 87,
+    "quote": "As iron sharpeneth iron, so a man sharpeneth the countenance of his friend.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 88,
+    "quote": "There is nothing more deceptive than an obvious fact.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "id": 89,
+    "quote": "The course of true love never did run smooth.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 90,
+    "quote": "An ounce of prevention is worth a pound of cure.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 91,
+    "quote": "Hope springs eternal in the human breast.",
+    "author": "Alexander Pope"
+  },
+  {
+    "id": 92,
+    "quote": "'Tis better to have loved and lost than never to have loved at all.",
+    "author": "Alfred Tennyson"
+  },
+  {
+    "id": 93,
+    "quote": "There is no new thing under the sun.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 94,
+    "quote": "All they that take the sword shall perish with the sword.",
+    "author": "Matthew"
+  },
+  {
+    "id": 95,
+    "quote": "You can't teach an old dog new tricks.",
+    "author": "English proverb"
+  },
+  {
+    "id": 96,
+    "quote": "O Captain! my Captain! our fearful trip is done.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 97,
+    "quote": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 98,
+    "quote": "Pride goeth before destruction, and an haughty spirit before a fall.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 99,
+    "quote": "I celebrate myself, and sing myself.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 100,
+    "quote": "Don't make a mountain out of a molehill.",
+    "author": "English proverb"
+  },
+  {
+    "id": 101,
+    "quote": "With malice toward none, with charity for all.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 102,
+    "quote": "It is not good that the man should be alone.",
+    "author": "Genesis"
+  },
+  {
+    "id": 103,
+    "quote": "Blessed are the meek: for they shall inherit the earth.",
+    "author": "Matthew"
+  },
+  {
+    "id": 104,
+    "quote": "I'm Nobody! Who are you? Are you Nobody, too?",
+    "author": "Emily Dickinson"
+  },
+  {
+    "id": 105,
+    "quote": "A foolish consistency is the hobgoblin of little minds.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 106,
+    "quote": "The world is too much with us; late and soon, getting and spending, we lay waste our powers.",
+    "author": "William Wordsworth"
+  },
+  {
+    "id": 107,
+    "quote": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 108,
+    "quote": "He that is good for making excuses is seldom good for anything else.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 109,
+    "quote": "A soft answer turneth away wrath: but grievous words stir up anger.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 110,
+    "quote": "What you do not want done to yourself, do not do to others.",
+    "author": "Confucius"
+  },
+  {
+    "id": 111,
+    "quote": "To travel hopefully is a better thing than to arrive.",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "id": 112,
+    "quote": "The superior man is modest in his speech, but exceeds in his actions.",
+    "author": "Confucius"
+  },
+  {
+    "id": 113,
+    "quote": "Vanity and pride are different things, though the words are often used synonymously.",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 114,
+    "quote": "There is a pleasure in the pathless woods, there is a rapture on the lonely shore.",
+    "author": "Lord Byron"
+  },
+  {
+    "id": 115,
+    "quote": "Oh, East is East, and West is West, and never the twain shall meet.",
+    "author": "Rudyard Kipling"
+  },
+  {
+    "id": 116,
+    "quote": "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 117,
+    "quote": "The proof of the pudding is in the eating.",
+    "author": "English proverb"
+  },
+  {
+    "id": 118,
+    "quote": "Whoso diggeth a pit shall fall therein.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 119,
+    "quote": "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 120,
+    "quote": "A threefold cord is not quickly broken.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 121,
+    "quote": "The evil that men do lives after them; the good is oft interred with their bones.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 122,
+    "quote": "Adopt the pace of nature: her secret is patience.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 123,
+    "quote": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 124,
+    "quote": "Once upon a midnight dreary, while I pondered, weak and weary.",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "id": 125,
+    "quote": "Don't cross the bridge till you come to it.",
+    "author": "English proverb"
+  },
+  {
+    "id": 126,
+    "quote": "Man is born free, and everywhere he is in chains.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "id": 127,
+    "quote": "The heart has its reasons which reason knows nothing of.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "id": 128,
+    "quote": "Good night, good night! Parting is such sweet sorrow.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 129,
+    "quote": "A good name is rather to be chosen than great riches.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 130,
+    "quote": "Ring out the old, ring in the new, ring, happy bells, across the snow.",
+    "author": "Alfred Tennyson"
+  },
+  {
+    "id": 131,
+    "quote": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+    "author": "Seneca"
+  },
+  {
+    "id": 132,
+    "quote": "Hope for the best, but prepare for the worst.",
+    "author": "English proverb"
+  },
+  {
+    "id": 133,
+    "quote": "Our life is frittered away by detail. Simplify, simplify.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 134,
+    "quote": "The only way to get rid of a temptation is to yield to it.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 135,
+    "quote": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 136,
+    "quote": "Nothing great was ever achieved without enthusiasm.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 137,
+    "quote": "Neither cast ye your pearls before swine.",
+    "author": "Matthew"
+  },
+  {
+    "id": 138,
+    "quote": "Dost thou love life? Then do not squander time, for that is the stuff life is made of.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 139,
+    "quote": "They that sow in tears shall reap in joy.",
+    "author": "Psalms"
+  },
+  {
+    "id": 140,
+    "quote": "They also serve who only stand and wait.",
+    "author": "John Milton"
+  },
+  {
+    "id": 141,
+    "quote": "Man is the only animal that blushes. Or needs to.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 142,
+    "quote": "Trust thyself: every heart vibrates to that iron string.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 143,
+    "quote": "A merry heart doeth good like a medicine.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 144,
+    "quote": "The two most powerful warriors are patience and time.",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 145,
+    "quote": "All the world's a stage, and all the men and women merely players.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 146,
+    "quote": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "author": "John"
+  },
+  {
+    "id": 147,
+    "quote": "Early to bed and early to rise makes a man healthy, wealthy and wise.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 148,
+    "quote": "Necessity is the mother of invention.",
+    "author": "English proverb"
+  },
+  {
+    "id": 149,
+    "quote": "Government of the people, by the people, for the people, shall not perish from the earth.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 150,
+    "quote": "If Winter comes, can Spring be far behind?",
+    "author": "Percy Bysshe Shelley"
+  },
+  {
+    "id": 151,
+    "quote": "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 152,
+    "quote": "Very little is needed to make a happy life.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 153,
+    "quote": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 154,
+    "quote": "And ye shall know the truth, and the truth shall make you free.",
+    "author": "John"
+  },
+  {
+    "id": 155,
+    "quote": "Whatsoever thy hand findeth to do, do it with thy might.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 156,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "id": 157,
+    "quote": "My heart's in the Highlands, my heart is not here.",
+    "author": "Robert Burns"
+  },
+  {
+    "id": 158,
+    "quote": "People who live in glass houses should not throw stones.",
+    "author": "English proverb"
+  },
+  {
+    "id": 159,
+    "quote": "When I was a child, I spake as a child, I understood as a child, I thought as a child.",
+    "author": "First Corinthians"
+  },
+  {
+    "id": 160,
+    "quote": "Do I contradict myself? Very well then I contradict myself, I am large, I contain multitudes.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 161,
+    "quote": "A thing of beauty is a joy for ever: its loveliness increases; it will never pass into nothingness.",
+    "author": "John Keats"
+  },
+  {
+    "id": 162,
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 163,
+    "quote": "We are all in the gutter, but some of us are looking at the stars.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 164,
+    "quote": "In the beginning God created the heaven and the earth.",
+    "author": "Genesis"
+  },
+  {
+    "id": 165,
+    "quote": "Tyger Tyger, burning bright, in the forests of the night.",
+    "author": "William Blake"
+  },
+  {
+    "id": 166,
+    "quote": "Where there is no vision, the people perish.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 167,
+    "quote": "Always forgive your enemies; nothing annoys them so much.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 168,
+    "quote": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 169,
+    "quote": "Better to reign in Hell, than serve in Heaven.",
+    "author": "John Milton"
+  },
+  {
+    "id": 170,
+    "quote": "In this world nothing can be said to be certain, except death and taxes.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 171,
+    "quote": "I went to the woods because I wished to live deliberately.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 172,
+    "quote": "Truth is stranger than fiction, but it is because fiction is obliged to stick to possibilities.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 173,
+    "quote": "Tell me what company you keep, and I'll tell you what you are.",
+    "author": "Miguel de Cervantes"
+  },
+  {
+    "id": 174,
+    "quote": "Love looks not with the eyes, but with the mind.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 175,
+    "quote": "You can lead a horse to water, but you can't make it drink.",
+    "author": "English proverb"
+  },
+  {
+    "id": 176,
+    "quote": "Poets are the unacknowledged legislators of the world.",
+    "author": "Percy Bysshe Shelley"
+  },
+  {
+    "id": 177,
+    "quote": "Hope is a good breakfast, but it is a bad supper.",
+    "author": "Francis Bacon"
+  },
+  {
+    "id": 178,
+    "quote": "For where your treasure is, there will your heart be also.",
+    "author": "Matthew"
+  },
+  {
+    "id": 179,
+    "quote": "To see a World in a Grain of Sand and a Heaven in a Wild Flower.",
+    "author": "William Blake"
+  },
+  {
+    "id": 180,
+    "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 181,
+    "quote": "Abandon all hope, ye who enter here.",
+    "author": "Dante Alighieri"
+  },
+  {
+    "id": 182,
+    "quote": "In much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 183,
+    "quote": "No act of kindness, no matter how small, is ever wasted.",
+    "author": "Aesop"
+  },
+  {
+    "id": 184,
+    "quote": "Water, water, every where, nor any drop to drink.",
+    "author": "Samuel Taylor Coleridge"
+  },
+  {
+    "id": 185,
+    "quote": "You can't have your cake and eat it too.",
+    "author": "English proverb"
+  },
+  {
+    "id": 186,
+    "quote": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 187,
+    "quote": "Love all, trust a few, do wrong to none.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 188,
+    "quote": "No man ever steps in the same river twice.",
+    "author": "Heraclitus"
+  },
+  {
+    "id": 189,
+    "quote": "What a piece of work is a man! How noble in reason, how infinite in faculty!",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 190,
+    "quote": "Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 191,
+    "quote": "Vanity of vanities, saith the Preacher; all is vanity.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 192,
+    "quote": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.",
+    "author": "Matthew"
+  },
+  {
+    "id": 193,
+    "quote": "The fault, dear Brutus, is not in our stars, but in ourselves.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 194,
+    "quote": "A time to weep, and a time to laugh; a time to mourn, and a time to dance.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 195,
+    "quote": "Of making many books there is no end; and much study is a weariness of the flesh.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 196,
+    "quote": "It is not enough to be busy. So are the ants. The question is: What are we busy about?",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 197,
+    "quote": "Don't throw the baby out with the bathwater.",
+    "author": "English proverb"
+  },
+  {
+    "id": 198,
+    "quote": "We hold these truths to be self-evident, that all men are created equal.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 199,
+    "quote": "Theirs not to reason why, theirs but to do and die.",
+    "author": "Alfred Tennyson"
+  },
+  {
+    "id": 200,
+    "quote": "Lives of great men all remind us we can make our lives sublime.",
+    "author": "Henry Wadsworth Longfellow"
+  },
+  {
+    "id": 201,
+    "quote": "For many are called, but few are chosen.",
+    "author": "Matthew"
+  },
+  {
+    "id": 202,
+    "quote": "The mass of men lead lives of quiet desperation.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 203,
+    "quote": "Patience is bitter, but its fruit is sweet.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "id": 204,
+    "quote": "I have made this longer than usual because I have not had time to make it shorter.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "id": 205,
+    "quote": "I wandered lonely as a cloud that floats on high o'er vales and hills.",
+    "author": "William Wordsworth"
+  },
+  {
+    "id": 206,
+    "quote": "Should auld acquaintance be forgot, and never brought to mind?",
+    "author": "Robert Burns"
+  },
+  {
+    "id": 207,
+    "quote": "A time to keep silence, and a time to speak.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 208,
+    "quote": "Don't count your chickens before they hatch.",
+    "author": "English proverb"
+  },
+  {
+    "id": 209,
+    "quote": "Hold Infinity in the palm of your hand and Eternity in an hour.",
+    "author": "William Blake"
+  },
+  {
+    "id": 210,
+    "quote": "Because I could not stop for Death, He kindly stopped for me.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "id": 211,
+    "quote": "Begin at the beginning and go on till you come to the end: then stop.",
+    "author": "Lewis Carroll"
+  },
+  {
+    "id": 212,
+    "quote": "How sharper than a serpent's tooth it is to have a thankless child!",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 213,
+    "quote": "Our doubts are traitors, and make us lose the good we oft might win by fearing to attempt.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 214,
+    "quote": "To strive, to seek, to find, and not to yield.",
+    "author": "Alfred Tennyson"
+  },
+  {
+    "id": 215,
+    "quote": "He that is without sin among you, let him first cast a stone at her.",
+    "author": "John"
+  },
+  {
+    "id": 216,
+    "quote": "Be patient and tough; someday this pain will be useful to you.",
+    "author": "Ovid"
+  },
+  {
+    "id": 217,
+    "quote": "Half a loaf is better than no bread.",
+    "author": "English proverb"
+  },
+  {
+    "id": 218,
+    "quote": "There never was a good war or a bad peace.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 219,
+    "quote": "If you can keep your head when all about you are losing theirs and blaming it on you.",
+    "author": "Rudyard Kipling"
+  },
+  {
+    "id": 220,
+    "quote": "In the sweat of thy face shalt thou eat bread.",
+    "author": "Genesis"
+  },
+  {
+    "id": 221,
+    "quote": "Fools rush in where angels fear to tread.",
+    "author": "Alexander Pope"
+  },
+  {
+    "id": 222,
+    "quote": "No man is free who is not master of himself.",
+    "author": "Epictetus"
+  },
+  {
+    "id": 223,
+    "quote": "A friend in need is a friend indeed.",
+    "author": "English proverb"
+  },
+  {
+    "id": 224,
+    "quote": "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 225,
+    "quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+    "author": "Matthew"
+  },
+  {
+    "id": 226,
+    "quote": "To every thing there is a season, and a time to every purpose under the heaven.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 227,
+    "quote": "Charity suffereth long, and is kind; charity envieth not.",
+    "author": "First Corinthians"
+  },
+  {
+    "id": 228,
+    "quote": "The Lord is my shepherd; I shall not want.",
+    "author": "Psalms"
+  },
+  {
+    "id": 229,
+    "quote": "I shot an arrow into the air, it fell to earth, I knew not where.",
+    "author": "Henry Wadsworth Longfellow"
+  },
+  {
+    "id": 230,
+    "quote": "Whatever our souls are made of, his and mine are the same.",
+    "author": "Emily Bronte"
+  },
+  {
+    "id": 231,
+    "quote": "Shall I compare thee to a summer's day? Thou art more lovely and more temperate.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 232,
+    "quote": "Life is far too important a thing ever to talk seriously about.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 233,
+    "quote": "Never send to know for whom the bell tolls; it tolls for thee.",
+    "author": "John Donne"
+  },
+  {
+    "id": 234,
+    "quote": "When the gods wish to punish us, they answer our prayers.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 235,
+    "quote": "I am a slow walker, but I never walk back.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 236,
+    "quote": "The race is not to the swift, nor the battle to the strong.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 237,
+    "quote": "Blessed are the peacemakers: for they shall be called the children of God.",
+    "author": "Matthew"
+  },
+  {
+    "id": 238,
+    "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+    "author": "Charlotte Bronte"
+  },
+  {
+    "id": 239,
+    "quote": "The spirit indeed is willing, but the flesh is weak.",
+    "author": "Matthew"
+  },
+  {
+    "id": 240,
+    "quote": "No one is useless in this world who lightens the burdens of another.",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 241,
+    "quote": "He that walketh with wise men shall be wise.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 242,
+    "quote": "Weeping may endure for a night, but joy cometh in the morning.",
+    "author": "Psalms"
+  },
+  {
+    "id": 243,
+    "quote": "The mind is its own place, and in itself can make a Heaven of Hell, a Hell of Heaven.",
+    "author": "John Milton"
+  },
+  {
+    "id": 244,
+    "quote": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+    "author": "First Corinthians"
+  },
+  {
+    "id": 245,
+    "quote": "I can resist everything except temptation.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 246,
+    "quote": "A chain is only as strong as its weakest link.",
+    "author": "English proverb"
+  },
+  {
+    "id": 247,
+    "quote": "Nothing is more powerful than an idea whose time has come.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 248,
+    "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": 249,
+    "quote": "Friends, Romans, countrymen, lend me your ears.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 250,
+    "quote": "The best laid schemes of mice and men often go awry.",
+    "author": "Robert Burns"
+  },
+  {
+    "id": 251,
+    "quote": "Please all, and you will please none.",
+    "author": "Aesop"
+  },
+  {
+    "id": 252,
+    "quote": "While we are postponing, life speeds by.",
+    "author": "Seneca"
+  },
+  {
+    "id": 253,
+    "quote": "Two are better than one; because they have a good reward for their labour.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 254,
+    "quote": "Always do right. This will gratify some people and astonish the rest.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 255,
+    "quote": "What can't be cured must be endured.",
+    "author": "English proverb"
+  },
+  {
+    "id": 256,
+    "quote": "A little learning is a dangerous thing.",
+    "author": "Alexander Pope"
+  },
+  {
+    "id": 257,
+    "quote": "All good things must come to an end.",
+    "author": "English proverb"
+  },
+  {
+    "id": 258,
+    "quote": "Life's but a walking shadow, a poor player that struts and frets his hour upon the stage.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 259,
+    "quote": "Never put off till tomorrow what you can do the day after tomorrow.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 260,
+    "quote": "She walks in beauty, like the night of cloudless climes and starry skies.",
+    "author": "Lord Byron"
+  },
+  {
+    "id": 261,
+    "quote": "Where there's a will, there's a way.",
+    "author": "English proverb"
+  },
+  {
+    "id": 262,
+    "quote": "Honesty is the first chapter in the book of wisdom.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 263,
+    "quote": "A picture is worth a thousand words.",
+    "author": "English proverb"
+  },
+  {
+    "id": 264,
+    "quote": "Hell is empty and all the devils are here.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 265,
+    "quote": "Do not count your chickens before they are hatched.",
+    "author": "Aesop"
+  },
+  {
+    "id": 266,
+    "quote": "Never leave that till tomorrow which you can do today.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 267,
+    "quote": "Reading maketh a full man; conference a ready man; and writing an exact man.",
+    "author": "Francis Bacon"
+  },
+  {
+    "id": 268,
+    "quote": "A house divided against itself cannot stand.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 269,
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 270,
+    "quote": "A bird in the hand is worth two in the bush.",
+    "author": "English proverb"
+  },
+  {
+    "id": 271,
+    "quote": "The lady doth protest too much, methinks.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 272,
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 273,
+    "quote": "The beginning is the most important part of the work.",
+    "author": "Plato"
+  },
+  {
+    "id": 274,
+    "quote": "Dripping water hollows out stone, not through force but through persistence.",
+    "author": "Ovid"
+  },
+  {
+    "id": 275,
+    "quote": "Laughter is the sun that drives winter from the human face.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 276,
+    "quote": "Absence makes the heart grow fonder.",
+    "author": "English proverb"
+  },
+  {
+    "id": 277,
+    "quote": "If God did not exist, it would be necessary to invent him.",
+    "author": "Voltaire"
+  },
+  {
+    "id": 278,
+    "quote": "The best revenge is to be unlike him who performed the injury.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 279,
+    "quote": "It is better to light a candle than to curse the darkness.",
+    "author": "English proverb"
+  },
+  {
+    "id": 280,
+    "quote": "One man's meat is another man's poison.",
+    "author": "English proverb"
+  },
+  {
+    "id": 281,
+    "quote": "A cynic is a man who knows the price of everything and the value of nothing.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 282,
+    "quote": "Give every man thy ear, but few thy voice.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 283,
+    "quote": "You can't make an omelette without breaking eggs.",
+    "author": "English proverb"
+  },
+  {
+    "id": 284,
+    "quote": "It's no use going back to yesterday, because I was a different person then.",
+    "author": "Lewis Carroll"
+  },
+  {
+    "id": 285,
+    "quote": "A horse! a horse! my kingdom for a horse!",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 286,
+    "quote": "Even a fool, when he holdeth his peace, is counted wise.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 287,
+    "quote": "Don't put all your eggs in one basket.",
+    "author": "English proverb"
+  },
+  {
+    "id": 288,
+    "quote": "Once more unto the breach, dear friends, once more.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 289,
+    "quote": "The truth is rarely pure and never simple.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 290,
+    "quote": "Though she be but little, she is fierce.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 291,
+    "quote": "Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 292,
+    "quote": "The fear of the Lord is the beginning of knowledge.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 293,
+    "quote": "The quality of mercy is not strained; it droppeth as the gentle rain from heaven.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 294,
+    "quote": "Uneasy lies the head that wears a crown.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 295,
+    "quote": "Experience is simply the name we give our mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 296,
+    "quote": "For now we see through a glass, darkly; but then face to face.",
+    "author": "First Corinthians"
+  },
+  {
+    "id": 297,
+    "quote": "If I have seen further it is by standing on the shoulders of Giants.",
+    "author": "Isaac Newton"
+  },
+  {
+    "id": 298,
+    "quote": "Now is the winter of our discontent made glorious summer by this sun of York.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 299,
+    "quote": "Don't look a gift horse in the mouth.",
+    "author": "English proverb"
+  },
+  {
+    "id": 300,
+    "quote": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+    "author": "Ecclesiastes"
+  },
+  {
+    "id": 301,
+    "quote": "We few, we happy few, we band of brothers.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 302,
+    "quote": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+    "author": "Psalms"
+  },
+  {
+    "id": 303,
+    "quote": "Why, sometimes I've believed as many as six impossible things before breakfast.",
+    "author": "Lewis Carroll"
+  },
+  {
+    "id": 304,
+    "quote": "The better part of valour is discretion.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 305,
+    "quote": "Something is rotten in the state of Denmark.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 306,
+    "quote": "Lightning never strikes twice in the same place.",
+    "author": "English proverb"
+  },
+  {
+    "id": 307,
+    "quote": "Go to the ant, thou sluggard; consider her ways, and be wise.",
+    "author": "Proverbs"
+  },
+  {
+    "id": 308,
+    "quote": "Fish and visitors stink after three days.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 309,
+    "quote": "If one does not know to which port one is sailing, no wind is favorable.",
+    "author": "Seneca"
+  },
+  {
+    "id": 310,
+    "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "author": "Jane Austen"
   }
 ]
